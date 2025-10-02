@@ -2,7 +2,6 @@
 
 A relatively simple weather bot developed for Discord.
 
-![WeatherBot in action](https://imgur.com/a/Oy8lkCJ)
 ---
 
 ## ✨ Features
